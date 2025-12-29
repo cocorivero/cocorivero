@@ -9,7 +9,3 @@ I'm a Software Engineer with 2+ years of experience in Quality Assurance (manual
 
 ### 🚀 Featured Projects
 - **VRPlotLib** — Python library for visualizing Vehicle Routing Problem (VRP) solutions using 2D plots and map-based visualizations
-
-### 📫 Connect with me
-- email: riveroandy02@gmail.com
-- LinkedIn: www.linkedin.com/in/andy-rivero-martin
